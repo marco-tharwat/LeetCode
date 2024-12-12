@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/marco-tharwat/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/marco-tharwat/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Counting
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/marco-tharwat/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
