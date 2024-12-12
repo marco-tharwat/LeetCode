@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/marco-tharwat/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/marco-tharwat/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/marco-tharwat/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
