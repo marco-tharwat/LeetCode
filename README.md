@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/marco-tharwat/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/marco-tharwat/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Counting
 |  |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marco-tharwat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
