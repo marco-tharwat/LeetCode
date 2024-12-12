@@ -19,9 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/marco-tharwat/LeetCode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/marco-tharwat/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/marco-tharwat/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
