@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/marco-tharwat/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/marco-tharwat/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/marco-tharwat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/marco-tharwat/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/marco-tharwat/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/marco-tharwat/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
