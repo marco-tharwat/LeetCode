@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/marco-tharwat/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
 | [2350-find-closest-number-to-zero](https://github.com/marco-tharwat/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Sorting
 |  |
@@ -80,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/marco-tharwat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/marco-tharwat/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
