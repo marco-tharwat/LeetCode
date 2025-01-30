@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/marco-tharwat/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/marco-tharwat/LeetCode/tree/master/0792-binary-search) |
 | [2350-find-closest-number-to-zero](https://github.com/marco-tharwat/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Sorting
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/marco-tharwat/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/marco-tharwat/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
