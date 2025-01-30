@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/marco-tharwat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/marco-tharwat/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/marco-tharwat/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/marco-tharwat/LeetCode/tree/master/0056-merge-intervals) |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/marco-tharwat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marco-tharwat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/marco-tharwat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/marco-tharwat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/marco-tharwat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/marco-tharwat/LeetCode/tree/master/0392-is-subsequence) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/marco-tharwat/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/marco-tharwat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/marco-tharwat/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/marco-tharwat/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/marco-tharwat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
