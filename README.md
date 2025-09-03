@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/marco-tharwat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/marco-tharwat/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/marco-tharwat/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
 ## Array
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/marco-tharwat/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/marco-tharwat/LeetCode/tree/master/0792-binary-search) |
 | [2350-find-closest-number-to-zero](https://github.com/marco-tharwat/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/marco-tharwat/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/marco-tharwat/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +129,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/marco-tharwat/LeetCode/tree/master/0792-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
