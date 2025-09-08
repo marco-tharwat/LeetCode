@@ -1,35 +1,38 @@
+using System.Text;
+
 public class Solution
 {
     public string MinRemoveToMakeValid(string s)
     {
+        StringBuilder sb = new(s);
         int leftParenthesesCount = 0;
-        for (int i = 0; i < s.Length; i++)
+        for (int i = 0; i < sb.Length; i++)
         {
-            if (s[i] == ')' && leftParenthesesCount == 0)
+            if (sb[i] == ')' && leftParenthesesCount == 0)
             {
-                s = s.Remove(i, 1);
+                sb = sb.Remove(i, 1);
                 i--;
             }
-            else if (s[i] == '(')
+            else if (sb[i] == '(')
             {
                 leftParenthesesCount++;
             }
-            else if (s[i] == ')' && leftParenthesesCount > 0)
+            else if (sb[i] == ')' && leftParenthesesCount > 0)
             {
                 leftParenthesesCount--;
             }
         }//lee(t(c)o)de)                a)b(c)d               ))((
         if (leftParenthesesCount > 0)
         {
-            for (int i = s.Length - 1; i >= 0; i--)
+            for (int i = sb.Length - 1; i >= 0; i--)
             {
-                if (s[i] == '(' && leftParenthesesCount != 0)
+                if (sb[i] == '(' && leftParenthesesCount != 0)
                 {
-                    s = s.Remove(i, 1);
+                    sb = sb.Remove(i, 1);
                     leftParenthesesCount--;
                 }
             }
         }
-        return s;
+        return sb.ToString();
     }
 }
