@@ -10,8 +10,7 @@ public class Solution
         {
             if (sb[i] == ')' && leftParenthesesCount == 0)
             {
-                sb = sb.Remove(i, 1);
-                i--;
+                sb[i] = '*';
             }
             else if (sb[i] == '(')
             {
@@ -24,15 +23,21 @@ public class Solution
         }//lee(t(c)o)de)                a)b(c)d               ))((
         if (leftParenthesesCount > 0)
         {
-            for (int i = sb.Length - 1; i >= 0; i--)
+            for (int i = sb.Length - 1; i >= 0 && leftParenthesesCount != 0; i--)
             {
-                if (sb[i] == '(' && leftParenthesesCount != 0)
+                if (sb[i] == '(')
                 {
-                    sb = sb.Remove(i, 1);
+                    sb[i] = '*';
                     leftParenthesesCount--;
                 }
             }
         }
-        return sb.ToString();
+        StringBuilder res = new();
+        foreach (var c in sb.ToString())
+        {
+            if (c != '*')
+                res.Append(c);
+        }
+        return res.ToString();
     }
 }
