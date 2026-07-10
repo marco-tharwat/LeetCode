@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/marco-tharwat/LeetCode/tree/master/0792-binary-search) |
+| [1929-concatenation-of-array](https://github.com/marco-tharwat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/marco-tharwat/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Sorting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/marco-tharwat/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/marco-tharwat/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
