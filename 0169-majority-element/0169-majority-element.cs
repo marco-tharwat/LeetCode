@@ -1,28 +1,28 @@
 public class Solution {
    public int MajorityElement(int[] nums)
 {
-    int count = 0;
-    int j = 0;
+    Dictionary<int, int> keyCount = new();
     for (int i = 0; i < nums.Length; i++)
     {
-        if (nums[j] == nums[i])
+        if (keyCount.ContainsKey(nums[i]))
         {
-            count++;
+            keyCount[nums[i]]++;
         }
-        if (i == nums.Length - 1)
+        else
         {
-            if (count <= nums.Length / 2)
-            {
-                i = -1;
-                count = 0;
-                j++;
-            }
-            else
-            {
-                break;
-            }
+            keyCount[nums[i]] = 1;
         }
     }
-    return nums[j];
+    int countValue = int.MinValue;
+    int target = 0;
+    foreach (var item in keyCount)
+    {
+        if (item.Value > countValue)
+        {
+            countValue = item.Value;
+            target = item.Key;
+        }
+    }
+    return target;
 }
 }
