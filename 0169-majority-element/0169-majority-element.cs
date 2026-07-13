@@ -1,26 +1,22 @@
 public class Solution {
    public int MajorityElement(int[] nums)
 {
-    Dictionary<int, int> keyCount = new();
-    for (int i = 0; i < nums.Length; i++)
+    int count = 0;
+    int target = 0;
+
+    foreach (var item in nums)
     {
-        if (keyCount.ContainsKey(nums[i]))
+        if (count == 0)
         {
-            keyCount[nums[i]]++;
+            target = item;
+        }
+        if (target == item)
+        {
+            count++;
         }
         else
         {
-            keyCount[nums[i]] = 1;
-        }
-    }
-    int countValue = int.MinValue;
-    int target = 0;
-    foreach (var item in keyCount)
-    {
-        if (item.Value > countValue)
-        {
-            countValue = item.Value;
-            target = item.Key;
+            count--;
         }
     }
     return target;
