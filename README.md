@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/marco-tharwat/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
+| [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 | [0782-jewels-and-stones](https://github.com/marco-tharwat/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/marco-tharwat/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/marco-tharwat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/marco-tharwat/LeetCode/tree/master/0792-binary-search) |
 | [1929-concatenation-of-array](https://github.com/marco-tharwat/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/marco-tharwat/LeetCode/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/marco-tharwat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/marco-tharwat/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
