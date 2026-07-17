@@ -1,45 +1,53 @@
 public class Solution {
-    //  2 1 2 0 0 1
-    //  0 1 2 2 0 1
-    //  0 0 2 2 1 1            
     public void SortColors(int[] nums)
     {
-        //int zCount = 0;
-        //int oCount = 0;
-        int temp = -1;
-        int index = 0;
-        for (int i = 0; i < nums.Length && index < nums.Length; i++)
+        Sort(nums,0,nums.Length-1);
+    }
+    private void Sort(int[] arr, int l, int r)
+    {
+        if (l >= r)
         {
-            if (nums[i] == 0)
-            {
-                //zCount++;
-                temp = nums[index];
-                nums[index] = nums[i];
-                nums[i] = temp;
-                index++;
-            }
+            return;
         }
-        for (int i = 0; i < nums.Length && index < nums.Length; i++)
+        int mid  = (l+r)/2;
+        Sort(arr,l,mid);
+        Sort(arr,mid+1,r);
+        Merge(arr,l,mid,r);   
+    }
+    private void Merge(int[] arr, int l, int m, int r) 
+    {
+        int i = l;
+        int j = 0, k = 0;
+        int[] left = new int[m-l+1];
+        int[] right = new int[r-m];
+        Array.Copy(arr,l,left,0,m-l+1);
+        Array.Copy(arr,m+1,right,0,r-m);
+
+        while (j<left.Length && k< right.Length)
         {
-            if (nums[i] == 1)
+            if (left[j] <= right[k])
             {
-                //oCount++;
-                temp = nums[index];
-                nums[index] = nums[i];
-                nums[i] = temp;
-                index++;
+                arr[i] = left[j];
+                j++;
             }
+            else
+            {
+                arr[i] = right[k];
+                k++;
+            }
+            i++;
         }
-        for (int i = 0; i < nums.Length && index < nums.Length; i++)
+        for (int c = j; c < left.Length; c++)
         {
-            if (nums[i] == 2)
-            {
-                //oCount++;
-                temp = nums[index];
-                nums[index] = nums[i];
-                nums[i] = temp;
-                index++;
-            }
+            arr[i] = left[c];
+            i++;
+            j++;
+        }
+        for (int c = k; c < right.Length; c++)
+        {
+            arr[i] = right[c];
+            i++;
+            k++;
         }
     }
 }
