@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/marco-tharwat/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/marco-tharwat/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/marco-tharwat/LeetCode/tree/master/0706-design-hashmap) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/marco-tharwat/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/marco-tharwat/LeetCode/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/marco-tharwat/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/marco-tharwat/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/marco-tharwat/LeetCode/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/marco-tharwat/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/marco-tharwat/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/marco-tharwat/LeetCode/tree/master/0706-design-hashmap) |
 ## Linked List
