@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/marco-tharwat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/marco-tharwat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/marco-tharwat/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marco-tharwat/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/marco-tharwat/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/marco-tharwat/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/marco-tharwat/LeetCode/tree/master/0383-ransom-note) |
 ## Array
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/marco-tharwat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/marco-tharwat/LeetCode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/marco-tharwat/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/marco-tharwat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/marco-tharwat/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/marco-tharwat/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/marco-tharwat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/marco-tharwat/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/marco-tharwat/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marco-tharwat/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/marco-tharwat/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/marco-tharwat/LeetCode/tree/master/0912-sort-an-array) |
